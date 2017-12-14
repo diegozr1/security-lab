@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1505970960 source:c:\users\user\apps\lab04\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

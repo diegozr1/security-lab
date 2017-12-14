@@ -1,0 +1,20 @@
+Develop a comprehensive and complete program in C language,3 free of errors and warnings,E B
+Awhich is able to DECODE the original content of a text file that has been encrypted by a stuffing cipher.H B
+BC
+CA stuffing cipher is a cipher that adds information to an original message in order to confuse people.G I
+8However,H the original text is not modified.FB
+A9
+EThe cipher encrypts a text file with respect to the following rule:I for each byte (Dcharacter)F of the original D
+Atext file,G which is the plaintext,A the cipher writes one character on the left of it,F the character itself and F
+Jsome characters on the right of it.I2
+27
+CThe character on the left of each valid character has information about the quantity of characters H
+Jinserted after the valid character (Ithe characters on its right)F.H A
+CJ
+JThe left byte inserted contains a numerical value (Bbetween 0H and 2J5H5D)B,F the second byte is the valid B
+3byte of the original file and the additional n bytes (Awhich are on the right of the valid byte)G are F
+Edetermined by extracting the remainder of the first read byte and the value of 1E0H.CF
+FH
+CThe following message is the result of the stuffing cipher over a text file.A Can you deduce what the G
+Boriginal message was?JC
+A

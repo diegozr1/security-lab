@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1504339828 source:c:\users\user\apps\crypto\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1504330104 source:c:\users\user\apps\crypto\test.c
+

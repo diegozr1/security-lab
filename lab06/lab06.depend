@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507696175 source:c:\users\user\apps\lab06\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

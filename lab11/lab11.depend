@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510249211 source:c:\users\user\apps\lab11\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
